@@ -17,13 +17,13 @@
   <style name="Number" foreground="#b5cea8"/>
   <style name="String" foreground="#ce9178"/>
   <style name="Type" foreground="#4ec9b0"/>
-  <style name="Local" foreground="#9cdcfe"/>
+  <style name="Local" foreground="#d4d4d4"/>
   <style name="Global" foreground="#9cdcfe"/>
   <style name="Field" foreground="#9cdcfe"/>
   <style name="Static" foreground="#b5cea8"/>
   <style name="VirtualMethod" foreground="#dcdcaa"/>
   <style name="Function" foreground="#dcdcaa"/>
-  <style name="Keyword" foreground="#c586c0"/>
+  <style name="Keyword" foreground="#569cd6"/>
   <style name="PrimitiveType" foreground="#569cd6"/>
   <style name="Operator" foreground="#d4d4d4"/>
   <style name="Overloaded Operator"/>
@@ -31,7 +31,7 @@
   <style name="Preprocessor" foreground="#dcdcaa"/>
   <style name="Label" foreground="#d4d4d4"/>
   <style name="Comment" foreground="#6a9955"/>
-  <style name="Doxygen.Comment" foreground="#65676a" bold="true" italic="true"/>
+  <style name="Doxygen.Comment" foreground="#6a9955"/>
   <style name="Doxygen.Tag" foreground="#66a334"/>
   <style name="VisualWhitespace" foreground="#bec0c2"/>
   <style name="QmlLocalId" foreground="#9acfd6" italic="true"/>
@@ -61,7 +61,7 @@
   <style name="WarningContext" underlineColor="#d6c545" underlineStyle="DotLine"/>
   <style name="Error" underlineColor="#d65645" underlineStyle="SingleUnderline"/>
   <style name="ErrorContext" underlineColor="#d65645" underlineStyle="DotLine"/>
-  <style name="Declaration" foreground="#dcdcaa" bold="true"/>
+  <style name="Declaration" foreground="#dcdcaa"/>
   <style name="FunctionDefinition" foreground="#dcdcaa"/>
   <style name="OutputArgument" italic="true"/>
   <style name="LastStyleSentinel"/>
